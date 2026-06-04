@@ -1,3 +1,11 @@
-# Godot 4+ specific ignores
+# Godot
 .godot/
 /android/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local scratch files
+notes.txt
+*.tmp
